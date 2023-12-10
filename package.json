@@ -7,5 +7,11 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "bin": {
+    "weather": "./index.ts"
+  },
+  "dependencies": {
+    "g": "^2.0.1"
   }
 }
