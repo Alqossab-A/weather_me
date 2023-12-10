@@ -1,5 +1,11 @@
 # weather_me
 
+Add as alias in ~/.bashrc
+
+```bash
+alias weather='bun your-file-location'
+```
+
 To install dependencies:
 
 ```bash
