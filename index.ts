@@ -1,3 +1,4 @@
+#!/usr/bin/env bun
 import baseURL from './env.js';
 
 async function weatherApi() {
